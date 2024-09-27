@@ -1,1 +1,13 @@
-yep.
+### STUDY BUSINESS INTELIGENCE
+#### BI-BASICS
+
+**What is Business Inteligence?** Business Inteligence is the ideia of employing data analisis as reference for decision-making.
+
+**Steps for building a BI model**  
+1. Define techniques and concepts that'll be utilized in the model
+2. Collect and organize the dataset
+3. Analyse and treat the dataset
+4. Share and monitor the dataset along with the team
+5. Utilize the data to support decision-making
+6. Asses past performance
+7. Plan the future
